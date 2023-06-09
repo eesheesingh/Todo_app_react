@@ -4,3 +4,5 @@ The React-based Todo app is a powerful and user-friendly application designed to
 The app offers a range of features to enhance task management. Users can create multiple task lists and categorize them based on different criteria such as work, personal, or shopping. They can add tasks to each list with detailed descriptions, due dates, and priority levels.
 
 The Todo app built with React not only provides a visually appealing and intuitive user experience but also delivers robust functionality to streamline task management. By leveraging the power of React, this app empowers individuals and teams to stay organized, increase productivity, and accomplish their goals efficiently.
+
+The following react app has been hosted on Vercel.com : https://todo-app-react-git-master-eesheesingh.vercel.app/ 
